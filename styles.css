@@ -1,0 +1,108 @@
+body {
+  background-color: #caf0f8;
+}
+
+.intro {
+  text-align: center;
+  background-color: #caf0f8;
+  text-shadow:1px 1px lightgray;
+  color: #212529;
+}
+
+.aka-story {
+  display: flex;
+  font-family: "Montserrat", sans-serif;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  margin: 10px;
+  background-color: #e9ecef;
+  padding: 10px;
+}
+
+.info {
+  display: table-column;
+}
+
+.aka-blue-suit {
+ width: 50%;
+ margin: 10px;
+ box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.video {
+ text-align: center;
+ margin: 20px;
+}
+
+.accolades {
+  display: flex;
+  font-family: "Montserrat", sans-serif;
+  padding: 2rem;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  background-color: #e9ecef;
+  padding: 10px;
+  margin: 20px;
+}
+
+.aka-arms {
+  display: block;
+  margin: 10px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.family {
+  display: flex;
+  font-family: "Montserrat", sans-serif;
+}
+
+.aka-kai {
+  border-radius: 50%;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.kairo {
+  margin: auto;
+}
+
+.newsletter {
+  display: flex ;
+  padding: 10px;
+}
+
+.gif {
+  margin-right: 20px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.inputs {
+  margin: 3px;
+}
+.social-icons {
+ display: block;
+ justify-content: start;
+ padding: 10px;
+}
+
+.social-icon:hover {
+  color: #02bcd3;
+  cursor: grab;
+}
+
+.dropdown {
+  margin-left: 3px;
+  margin-top: 2px;
+}
+
+.check-box {
+  font-size: 0.7rem;
+}
+
+.submit-button {
+  border-radius: 8px;
+  background-color: aqua;
+  margin-left: 4px;
+  margin-bottom: 3px;
+}
+.submit-button:hover {
+  cursor: grab;
+  background: #d965b1;
+}
