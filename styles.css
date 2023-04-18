@@ -32,17 +32,17 @@ body {
 
 .video {
  text-align: center;
- margin: 5px;
+ margin: 5rem;
 }
 
 .accolades {
   display: flex;
   font-family: "Montserrat", sans-serif;
   padding: 2rem;
-  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0rem 2rem 8rem 0rem;
   background-color: #e9ecef;
-  padding: 10px;
-  margin: 20px;
+  padding: 3rem;
+  margin: 4rem;
 }
 
 .aka-arms {
