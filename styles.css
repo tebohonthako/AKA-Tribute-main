@@ -5,17 +5,17 @@ body {
 .intro {
   text-align: center;
   background-color: #caf0f8;
-  text-shadow:1px 1px lightgray;
+  text-shadow:0.2px 0.2px lightgray;
   color: #212529;
 }
 
 .aka-story {
   display: flex;
   font-family: "Montserrat", sans-serif;
-  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
-  margin: 10px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0rem 2rem 8rem 0rem;
+  margin: 5rem;
   background-color: #e9ecef;
-  padding: 10px;
+  padding: 5rem;
 }
 
 .info {
@@ -23,14 +23,16 @@ body {
 }
 
 .aka-blue-suit {
- width: 50%;
- margin: 10px;
- box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  width: 50%;
+  margin: 1rem;
+  box-shadow: rgba(0, 0, 0, 0.25) 0rem 3rem 5rem,
+    rgba(0, 0, 0, 0.12) 0rem -3rem 7rem, rgba(0, 0, 0, 0.12) 0rem 2rem 3rem,
+    rgba(0, 0, 0, 0.17) 0rem 3rem 6.5rem, rgba(0, 0, 0, 0.09) 0rem -1.5rem 2rem;
 }
 
 .video {
  text-align: center;
- margin: 20px;
+ margin: 5px;
 }
 
 .accolades {
