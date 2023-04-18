@@ -96,20 +96,16 @@ body {
   cursor: grab;
 }
 
-.dropdown {
-  margin-left: 3px;
-  margin-top: 2px;
-}
-
 .check-box {
   font-size: 0.7rem;
 }
 
 .submit-button {
-  border-radius: 8px;
-  background-color: aqua;
-  margin-left: 4px;
-  margin-bottom: 3px;
+  border-radius: 10rem;
+  color: #fff;
+  background-color: blueviolet;
+  margin-left: 0.1rem;
+  margin-bottom: 1rem;
 }
 .submit-button:hover {
   cursor: grab;
